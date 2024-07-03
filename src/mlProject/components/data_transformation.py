@@ -27,6 +27,7 @@ class DataTransformation:
         logger.info(train.shape)
         logger.info(test.shape)
 
+
         print(train.shape)
         print(test.shape)
         
