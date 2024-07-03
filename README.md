@@ -22,7 +22,7 @@
 Clone the repository
 
 ```bash
-
+https://github.com/jayraj2498/Wine_Spectrum_DS_proj_CICD.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
